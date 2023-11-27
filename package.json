@@ -15,8 +15,8 @@
   "homepage": "https://github.com/dasrick/tox-hg-ui#readme",
   "dependencies": {
     "express": "^4.13.3",
-    "node-sass": "^3.4.2",
-    "pm2": "^0.15.10"
+    "node-sass": "^7.0.2",
+    "pm2": "^4.3.0"
   },
   "devDependencies": {
     "watch": "^0.16.0"
